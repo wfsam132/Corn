@@ -4,11 +4,11 @@
 
 # - Facebook : https://m.facebook.com/llovexnxx				  #
 
-# - WhatsApp : https://wa.me/6283143565470				  #
+# - WhatsApp : https://wa.me/+2348138769949				  #
 
-# - TeleGram : 6283143565470       					  #
+# - TeleGram : +2348138769949       					  #
 
-# - Github   : https://github.com/Dumai-991 				  #
+# - Github   : https://github.com/Wfsam132 				  #
 
 # INFO   :								  #
 
@@ -26,7 +26,7 @@ email_me = ("wfking312@yahoo.com")
 
 facebook_me = ("Https://M.Facebook.Com/llovexnxx")
 
-github_me = ("Https://Github.Com/wfsam312")
+github_me = ("Https://Github.Com/wfsam132")
 
 team = ("ZEE K WORLD,MR.RISKY,WANSXGANS")
 
